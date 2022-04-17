@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Michał 
-- 👀 I’m interested in sports, programming, computer gamę.
+- 👀 I’m interested in sports, programming, computer games.
 - 🌱 I’m currently learning java
 - 📫 How to reach me wilmowicz@gmail.com
 
