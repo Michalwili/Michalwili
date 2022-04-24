@@ -1,7 +1,8 @@
-- 👋 Hi, I’m Michał 
+- 👋 Hi, I’m Michał.
+- 👨‍🎓 IT student in Olsztyn - first year.
 - 👀 I’m interested in sports, programming, computer games.
-- 🌱 I’m currently learning java
-- 📫 How to reach me wilmowicz@gmail.com
+- 🌱 I’m currently learning Java.
+- 📫 How to reach me wilmowicz@gmail.com.
 
 <!---
 Michalwili/Michalwili is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
