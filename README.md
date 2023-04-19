@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Michał.
-- 👨‍🎓 IT student in Olsztyn - first year.
+- 👨‍🎓 IT student in Olsztyn - second year.
 - 👀 I’m interested in sports, programming, computer games.
 - 🌱 I’m currently learning Java.
 - 📫 How to reach me wilmowicz@gmail.com.
