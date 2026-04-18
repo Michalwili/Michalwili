@@ -1,6 +1,33 @@
-- 👋 Hi, I’m Michał, an IT student from Olsztyn with a passion for technology.
-- 👨‍🎓 Currently focusing on Java development and software engineering.
-- 💡 I enjoy solving complex problems and am constantly improving my coding skills.
-- 👀 Outside of programming, I’m passionate about sports and computer games, which help me maintain a balanced and creative mindset.
-- 🌱 Right now, I’m deepening my knowledge of Java and exploring backend development.
-- 📫 Feel free to reach out to me at [wilmowicz@gmail.com](mailto:wilmowicz@gmail.com) for collaboration or job opportunities.
+🔧 About Me
+
+Hi, I’m Michał — ERP Consultant & aspiring Java Backend Developer based in Olsztyn.
+
+I combine technical knowledge with financial and business understanding, working daily with ERP systems, integrations, and real-world business processes in the automotive/TSL industry.
+
+💼 What I Do
+ERP Consultant (Symfonia, XDMS)
+IT Analyst – business processes & system integrations
+Supporting accounting workflows (invoicing, warehouse, KWS, leasing systems)
+Troubleshooting, ServiceDesk, and user support
+Creating documentation and testing system changes
+💻 Tech Focus
+Java & Spring Boot (backend development)
+REST APIs, microservices basics
+Kafka (event-driven communication – learning in practice)
+SQL / databases (PostgreSQL)
+Docker (basic usage)
+🚀 Current Goal
+
+Transition into Java Backend Developer / IT Analyst role, building scalable systems and improving my engineering skills through real projects.
+
+🧠 Approach
+Analytical thinking (finance + IT)
+Problem-solving in real production systems
+Continuous learning and hands-on practice
+🎯 Interests
+Backend development
+System architecture
+Sports & gaming (balance + creativity)
+📫 Contact
+
+📧 wilmowicz@gmail.com
